@@ -1,4 +1,4 @@
-# Source Game Server Sec Research (Steam)
+# Source SDK Server security research
 
  Simple repository to store my security researches in the Source Game Server plataform (Steam)
  
