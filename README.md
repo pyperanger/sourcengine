@@ -13,6 +13,8 @@
 
 **Libraries**
 
+https://metacpan.org/pod/Net::RCON
+
 https://pypi.python.org/pypi/pysrcds
 
 https://sourceforge.net/projects/srcdspy/
