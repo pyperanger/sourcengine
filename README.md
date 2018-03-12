@@ -10,6 +10,10 @@
  https://developer.valvesoftware.com/wiki/Server_queries
  
  https://developer.valvesoftware.com/wiki/Source_RCON_Protocol
+ 
+ https://developer.valvesoftware.com/wiki/Networking_Entities
+
+ https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
 
 **Libraries**
 
