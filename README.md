@@ -26,3 +26,7 @@ https://pypi.python.org/pypi/pysrcds
 https://sourceforge.net/projects/srcdspy/
 
 https://github.com/frostschutz/SourceLib
+
+** Sources **
+
+https://github.com/ValveSoftware/halflife
