@@ -7,6 +7,8 @@
 
  **Wiki**
 
+ https://developer.valvesoftware.com/wiki/Source_Server_Query_Library
+
  https://developer.valvesoftware.com/wiki/Server_queries
  
  https://developer.valvesoftware.com/wiki/Source_RCON_Protocol
@@ -26,6 +28,10 @@ https://pypi.python.org/pypi/pysrcds
 https://sourceforge.net/projects/srcdspy/
 
 https://github.com/frostschutz/SourceLib
+
+https://github.com/serverstf/python-valve
+
+https://pypi.python.org/pypi/valve-range-query/1.0.4
 
 **Sources**
 
