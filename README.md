@@ -25,22 +25,28 @@
 
 **Libraries**
 
-https://metacpan.org/pod/Net::RCON
+ https://metacpan.org/pod/Net::RCON
 
-https://pypi.python.org/pypi/pysrcds
+ https://pypi.python.org/pypi/pysrcds
 
-https://sourceforge.net/projects/srcdspy/
+ https://sourceforge.net/projects/srcdspy/
 
-https://github.com/frostschutz/SourceLib
+ https://github.com/frostschutz/SourceLib
 
-https://github.com/serverstf/python-valve
+ https://github.com/serverstf/python-valve
 
-https://pypi.python.org/pypi/valve-range-query/1.0.4
+ https://pypi.python.org/pypi/valve-range-query/1.0.4
 
 **Sources**
 
-https://github.com/ValveSoftware/halflife
+ https://github.com/ValveSoftware/halflife
 
-https://github.com/ValveSoftware/source-sdk-2013
+ https://github.com/ValveSoftware/source-sdk-2013
+
+**SourceMod / SourcePawn**
+
+  https://wiki.alliedmods.net/Introduction_to_SourcePawn_1.7
+
+  https://wiki.alliedmods.net/Introduction_to_SourceMod_Plugins
 
 
