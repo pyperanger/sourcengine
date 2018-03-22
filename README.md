@@ -4,33 +4,33 @@
  
  ***
  
- List Games developement with Source SDK (Valve)
+ List of game developements with Source SDK (Valve)
 
-	* Alien Swarm
-	* Black Mesa
-	* Codename Cure
-	* Counter-Strike: Source
-	* Counter-Strike: Global Offensive
-	* Day of Defeat: Source
-	* Dota 2
-	* Dystopia
-	* Empires
-	* Garry's Mod
-	* Half-Life 2: Capture the Flag
-	* Half-Life 2: Deathmatch
-	* Hidden: Source
-	* Insurgency: Source
-	* Iron Grip: Source
-	* Left 4 Dead
-	* Left 4 Dead 2
-	* Neotokyo
-	* No More Room in Hell
-	* Nuclear Dawn
-	* Perfect Dark: Source
-	* Pirates, Vikings, Knights II
-	* SourceForts
-	* Team Fortress 2
-	* Zombie Panic! Source
+* Alien Swarm
+* Black Mesa
+* Codename Cure
+* Counter-Strike: Source
+* Counter-Strike: Global Offensive
+* Day of Defeat: Source
+* Dota 2
+* Dystopia
+* Empires
+* Garry's Mod
+* Half-Life 2: Capture the Flag
+* Half-Life 2: Deathmatch
+* Hidden: Source
+* Insurgency: Source
+* Iron Grip: Source
+* Left 4 Dead
+* Left 4 Dead 2
+* Neotokyo
+* No More Room in Hell
+* Nuclear Dawn
+* Perfect Dark: Source
+* Pirates, Vikings, Knights II
+* SourceForts
+* Team Fortress 2
+* Zombie Panic! Source
 
 
  ***
