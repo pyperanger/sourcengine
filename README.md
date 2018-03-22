@@ -45,8 +45,8 @@
 
 **SourceMod / SourcePawn**
 
-  https://wiki.alliedmods.net/Introduction_to_SourcePawn_1.7
+ https://wiki.alliedmods.net/Introduction_to_SourcePawn_1.7
 
-  https://wiki.alliedmods.net/Introduction_to_SourceMod_Plugins
-
-
+ https://wiki.alliedmods.net/Introduction_to_SourceMod_Plugins
+ 
+ https://sm.alliedmods.net/new-api/console/
