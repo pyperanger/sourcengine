@@ -19,6 +19,10 @@
 
  https://developer.valvesoftware.com/wiki/SourceTV
 
+ https://developer.valvesoftware.com/wiki/Server_plugins
+
+ https://developer.valvesoftware.com/wiki/VScript
+
 **Libraries**
 
 https://metacpan.org/pod/Net::RCON
@@ -36,3 +40,7 @@ https://pypi.python.org/pypi/valve-range-query/1.0.4
 **Sources**
 
 https://github.com/ValveSoftware/halflife
+
+https://github.com/ValveSoftware/source-sdk-2013
+
+
