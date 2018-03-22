@@ -4,7 +4,7 @@
  
  ***
  
- List of game developements with Source SDK (Valve)
+ List of developed games with Source SDK (Valve)
 
 * Alien Swarm
 * Black Mesa
