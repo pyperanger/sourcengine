@@ -81,3 +81,8 @@
  https://wiki.alliedmods.net/Introduction_to_SourceMod_Plugins
  
  https://sm.alliedmods.net/new-api/console/
+ 
+** Refs **
+ 
+ https://github.com/dsasmblr/game-hacking 
+ 
