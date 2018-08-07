@@ -73,6 +73,8 @@
  https://github.com/ValveSoftware/halflife
 
  https://github.com/ValveSoftware/source-sdk-2013
+ 
+ - https://github.com/ValveSoftware/source-sdk-2013/tree/master/mp/src/game/server
 
 **SourceMod / SourcePawn**
 
