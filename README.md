@@ -75,6 +75,8 @@
  https://github.com/ValveSoftware/source-sdk-2013
  
  - https://github.com/ValveSoftware/source-sdk-2013/tree/master/mp/src/game/server
+ 
+ https://github.com/VSES/SourceEngine2007
 
 **SourceMod / SourcePawn**
 
