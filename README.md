@@ -92,5 +92,5 @@
  
  https://phoenhex.re/2018-08-26/csgo-fuzzing-bsp
  
- https://phoenhex.re/2018-08-26/csgo-fuzzing-bsp
+ https://x-c3ll.github.io/posts/Frida-Pwn-Adventure-3/
  
